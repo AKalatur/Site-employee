@@ -1,0 +1,2 @@
+INSERT INTO users(u_login, u_password, u_role, e_id) VALUES ('user','123456','ROLE_USER','1'),('admin','123456','ROLE_ADMIN','1');
+INSERT INTO employee(f_name, s_name, position, salary) VALUES ('Oleg','Petrov','manager','5000'),('Olga','Ivanova','Admin','10000'); 

@@ -1,0 +1,6 @@
+table {
+    border: solid chartreuse;
+}
+tr,td {
+    border: double;
+}
